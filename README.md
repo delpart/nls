@@ -3,7 +3,7 @@
 ## Visual Abstract
 ![Alt text](figures/neural-lsystem-main.png "Neural Lindemayer System")
 
-## WIP
+## Disclaimer
 The `Arrowhead` and `Fern` dataset are still highly WIP (convergence is still an issue - and highly sensitive to initialization and hyperparameter selection.
 
 ## Related Work
