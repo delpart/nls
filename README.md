@@ -22,3 +22,20 @@ Hornby, G. S., & Pollack, J. B. (2001). Evolving L-systems to generate virtual c
 Lucny, A. (n.d.). On Lindenmayer Systems and Autoencoders. http://dai.fmph.uniba.sk/w/Andrej_Lucny/en
 
 de Campos, L. M. L., de Oliveira, R. C. L., & Roisenberg, M. (2015). Evolving Artificial Neural Networks through L-system and evolutionary computation. 2015 International Joint Conference on Neural Networks (IJCNN), 1–9. https://doi.org/10.1109/IJCNN.2015.7280535
+
+## Citation
+```
+@proceedings{10.1162/isal_a_00784,
+    author = {Senn, Christoph W. and Frischknecht-Gruber, Carmen Mei-Ling and Weyland, Mathias and Füchslin, Rudolf M.},
+    title = {Neural Lindenmayer Systems},
+    volume = {ALIFE 2024: Proceedings of the 2024 Artificial Life Conference},
+    series = {ALIFE 2022: The 2022 Conference on Artificial Life},
+    pages = {56},
+    year = {2024},
+    month = {07},
+    abstract = {Our work introduces the Neural Lindenmayer system, an innovative approach to learning Lindenmayer rules from string representations in the presence of noise. It demonstrates its effectiveness in the example of the dragon curve. By integrating a selection network with multiple rule networks, our system effectively captures the variability in rule lengths. This offers a promising direction for analyzing and generating complex patterns observed in nature.},
+    doi = {10.1162/isal_a_00784},
+    url = {https://doi.org/10.1162/isal\_a\_00784},
+    eprint = {https://direct.mit.edu/isal/proceedings-pdf/isal2024/36/56/2461015/isal\_a\_00784.pdf},
+}
+```
